@@ -1,26 +1,23 @@
 ![Demo](Screenshot.png)
 
 ## Project: ReactPlayList + Firebase API
-Vandaag gaan jullie aan de slag om een Single Page Application (SPA) te maken waarin je al je favoriete lievelingsliedjes kunt opslaan met rating. Firebase API: Toevoegen van een end-point in de database om, de data op te slaa
+Today you will create a Single Page Application (SPA) in which you can save all your favorite songs with rating. Firebase API: Add an end-point to the database to store the data in the database.
 
 ###### Clone of download het project van Github. 
 
 ### Project focus
-Deze week ligt de focus 100% op React. Binnen React komt alle "logica" en functionaliteit uit het gebruik van JavaScript met praktijkvoorbeelden.
+This week the focus is 100% on React. 
 
-### Project eisen
-- [x] Als gebruiker wil ik de volgende gegevens over mijn nummer willen invullen: titel, artiest, genre, rating (dropdown menu is geen vereiste).
-- [x] Als gebruiker wil ik op één button kunnen klikken waardoor mijn ingevulde nummer toegevoegd wordt aan mijn playlist.
-- [x] Als gebruiker wil ik mijn nummers kunnen zien in een overzicht (mijn playlist), waar alle ingevulde gegevens in zichtbaar zijn.
+### Project requirements
+- [x] As a user I would like to enter the following information about my song: title, artist, genre and rating.
+- [x] As a user I want to be able to click on one button so that my  song will be added to my playlist.
+- [x] As a user I want to be able to see my songs in an overview (my playlist).
 
 ### Credits
-Aan de geweldige mensen van Winc Academy.
-
+To the lovely people of Winc Academy.
 
 
 ### How to run
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
